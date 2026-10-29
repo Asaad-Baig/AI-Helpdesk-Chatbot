@@ -1,0 +1,14 @@
+Enterprise IT Helpdesk Policy Manual
+
+1. Password Reset Policy
+Users can reset their domain passwords via the self-service portal at https://password.enterprise.local.
+If locked out, contact IT Support at extension 4357 or open a ticket. Passwords must be at least 12 characters
+and contain uppercase letters, numbers, and special symbols.
+
+2. VPN Access & Remote Connectivity
+Remote access requires Cisco AnyConnect VPN with Multi-Factor Authentication (MFA).
+To request VPN access, submit an access request form approved by your department manager.
+
+3. Hardware Upgrades
+Laptops and workstations are eligible for hardware refresh every 3 years.
+For urgent hardware replacements due to malfunction, contact desktop support.
